@@ -1,5 +1,4 @@
-## Hi there 👋
-
+This is the budget engine. It is mine and probably not yours (maybe). This site is for the budget engine to automatically backup to my google drive from my server (and google cloud is stupid and needs me to have my own website in order to do that.)
 <!--
 **budgetengineyeah/budgetengineyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
